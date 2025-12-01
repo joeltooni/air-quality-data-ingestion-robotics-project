@@ -153,11 +153,11 @@ Edit `config.py` with your specific details:
 
 ```python
 # Awair Configuration
-AWAIR_API_KEY = "your_actual_api_key"
+AWAIR_API_KEY = "actual_api_key"
 AWAIR_DEVICE_IDS = ["12345", "67890"]  # Your Awair device IDs
 
 # Kaiterra Configuration
-KAITERRA_API_KEY = "your_actual_api_key"
+KAITERRA_API_KEY = "actual_api_key"
 KAITERRA_DEVICE_IDS = ["00000000-0001-0001-0000-00007e57c0de"]  # Your Kaiterra device IDs
 ```
 
