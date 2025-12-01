@@ -1,0 +1,7 @@
+# Air Quality Data Extractor - Python Dependencies
+
+# HTTP requests
+requests>=2.31.0
+
+# Data manipulation and CSV export
+pandas>=2.0.0
