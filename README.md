@@ -282,19 +282,3 @@ Consolidating data and exporting to CSV...
 
 - Check that you've added device IDs to the configuration lists
 - Verify both API keys and device IDs are configured
-
----
-
-## 10. License
-
-This project is provided as-is for air quality monitoring purposes.
-
----
-
-## 11. Support
-
-For issues related to:
-
-- **Awair API**: Contact Awair developer support
-- **Kaiterra API**: Contact Kaiterra developer support
-- **This script**: Check the error messages in the CSV output for debugging information
